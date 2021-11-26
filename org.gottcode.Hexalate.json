@@ -1,7 +1,7 @@
 {
 	"app-id": "org.gottcode.Hexalate",
 	"runtime": "org.kde.Platform",
-	"runtime-version": "5.15-21.08",
+	"runtime-version": "6.2",
 	"sdk": "org.kde.Sdk",
 	"command": "hexalate",
 	"rename-icon": "hexalate",
@@ -18,7 +18,7 @@
 	"modules": [
 		{
 			"name": "hexalate",
-			"buildsystem": "qmake",
+			"buildsystem": "cmake-ninja",
 			"sources": [
 				{
 					"type": "archive",
