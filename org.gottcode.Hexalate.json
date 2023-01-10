@@ -1,7 +1,7 @@
 {
 	"app-id": "org.gottcode.Hexalate",
 	"runtime": "org.kde.Platform",
-	"runtime-version": "6.3",
+	"runtime-version": "6.4",
 	"sdk": "org.kde.Sdk",
 	"command": "hexalate",
 	"rename-icon": "hexalate",
@@ -22,8 +22,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/hexalate/hexalate-1.2.1-src.tar.bz2",
-					"sha256": "a36c00320b75526055566ffb7b0bbf719828a8a98b5ad5a5d0f463c5dfa06aa6"
+					"url": "https://gottcode.org/hexalate/hexalate-1.2.2.tar.bz2",
+					"sha256": "7afb9e4613dd84a0c1a02f3cb2c5db916c61f3ac78cc53b185d1b7207bb41507"
 				}
 			]
 		}
