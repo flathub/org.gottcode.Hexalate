@@ -22,12 +22,8 @@
 			"sources": [
 				{
 					"type": "archive",
-					"url": "https://gottcode.org/hexalate/hexalate-1.2.4.tar.bz2",
-					"sha256": "0c7fb45312fd31707affbde07c02304462997587f3a7a2327dc174b04993309f"
-				},
-				{
-					"type": "patch",
-					"path": "rename-icon.patch"
+					"url": "https://gottcode.org/hexalate/hexalate-1.2.5.tar.bz2",
+					"sha256": "a0983641a14552b2363f9b7ac2bc546f58169315d924f43cabceb2bd062986b0"
 				}
 			]
 		}
